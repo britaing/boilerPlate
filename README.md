@@ -1,1 +1,2 @@
-# boilerPlate
+# project-boilerplate
+project-boilerplate
